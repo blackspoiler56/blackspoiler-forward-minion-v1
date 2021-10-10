@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Main channel', url="https://t.me/blackspoiler"
+                                    '💢👉Join Main channel👈💢', url="https://t.me/blackspoiler"
                                 )
                         ]
                     ]
