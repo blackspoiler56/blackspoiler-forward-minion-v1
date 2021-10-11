@@ -184,13 +184,13 @@ async def auto_filter(bot: Client, update: Message):
                 if ((len(ibuttons)%2) == 0):
                     ibuttons.append(
                         [
-                            InlineKeyboardButton(f"⚜ {@blackspoiler} ⚜", url=invite_link)
+                            InlineKeyboardButton(f" 💢{JOIN MAIN CHANNEL}💢 ", url=https://t.me/blackspoiler)
                         ]
                     )
 
                 else:
                     ibuttons[-1].append(
-                        InlineKeyboardButton(f"⚜ {@blackspoiler} ⚜", url=invite_link)
+                        InlineKeyboardButton(f" 💢{JOIN MAIN CHANNEL}💢 ", url=https://t.me/blackspoiler)
                     )
                 
             for x in ibuttons:
